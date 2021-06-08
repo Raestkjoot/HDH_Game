@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: f4e86f15f35ad32438aae88792ba263e
+timeCreated: 1525333967
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 36575c126758cf401816ba3fa894a407
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 6.114262, y: 2.5978148, z: -5.9961576}
+      lookAt: {x: -7.24845, y: -2.0839338, z: 14.046297}
+      up: {x: -0.10583448, y: 0.9816318, z: 0.15873893}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Difference
+    100002: Difference 1
+    100004: Difference 10
+    100006: Difference 100
+    100008: Difference 101
+    100010: Difference 102
+    100012: Difference 103
+    100014: Difference 104
+    100016: Difference 105
+    100018: Difference 106
+    100020: Difference 107
+    100022: Difference 108
+    100024: Difference 109
+    100026: Difference 11
+    100028: Difference 110
+    100030: Difference 111
+    100032: Difference 112
+    100034: Difference 113
+    100036: Difference 114
+    100038: Difference 115
+    100040: Difference 116
+    100042: Difference 117
+    100044: Difference 118
+    100046: Difference 119
+    100048: Difference 12
+    100050: Difference 120
+    100052: Difference 121
+    100054: Difference 122
+    100056: Difference 123
+    100058: Difference 124
+    100060: Difference 125
+    100062: Difference 126
+    100064: Difference 127
+    100066: Difference 128
+    100068: Difference 129
+    100070: Difference 13
+    100072: Difference 130
+    100074: Difference 131
+    100076: Difference 132
+    100078: Difference 133
+    100080: Difference 134
+    100082: Difference 135
+    100084: Difference 136
+    100086: Difference 137
+    100088: Difference 138
+    100090: Difference 139
+    100092: Difference 14
+    100094: Difference 140
+    100096: Difference 141
+    100098: Difference 142
+    100100: Difference 143
+    100102: Difference 144
+    100104: Difference 145
+    100106: Difference 146
+    100108: Difference 147
+    100110: Difference 148
+    100112: Difference 149
+    100114: Difference 15
+    100116: Difference 150
+    100118: Difference 151
+    100120: Difference 152
+    100122: Difference 153
+    100124: Difference 154
+    100126: Difference 155
+    100128: Difference 156
+    100130: Difference 157
+    100132: Difference 158
+    100134: Difference 159
+    100136: Difference 16
+    100138: Difference 160
+    100140: Difference 161
+    100142: Difference 162
+    100144: Difference 17
+    100146: Difference 18
+    100148: Difference 19
+    100150: Difference 2
+    100152: Difference 20
+    100154: Difference 21
+    100156: Difference 22
+    100158: Difference 23
+    100160: Difference 24
+    100162: Difference 25
+    100164: Difference 26
+    100166: Difference 27
+    100168: Difference 28
+    100170: Difference 29
+    100172: Difference 3
+    100174: Difference 30
+    100176: Difference 31
+    100178: Difference 32
+    100180: Difference 33
+    100182: Difference 34
+    100184: Difference 35
+    100186: Difference 36
+    100188: Difference 37
+    100190: Difference 38
+    100192: Difference 39
+    100194: Difference 4
+    100196: Difference 40
+    100198: Difference 41
+    100200: Difference 42
+    100202: Difference 43
+    100204: Difference 44
+    100206: Difference 45
+    100208: Difference 46
+    100210: Difference 47
+    100212: Difference 48
+    100214: Difference 49
+    100216: Difference 5
+    100218: Difference 50
+    100220: Difference 51
+    100222: Difference 52
+    100224: Difference 53
+    100226: Difference 54
+    100228: Difference 55
+    100230: Difference 56
+    100232: Difference 57
+    100234: Difference 58
+    100236: Difference 59
+    100238: Difference 6
+    100240: Difference 60
+    100242: Difference 61
+    100244: Difference 62
+    100246: Difference 63
+    100248: Difference 64
+    100250: Difference 65
+    100252: Difference 66
+    100254: Difference 67
+    100256: Difference 68
+    100258: Difference 69
+    100260: Difference 7
+    100262: Difference 70
+    100264: Difference 71
+    100266: Difference 72
+    100268: Difference 73
+    100270: Difference 74
+    100272: Difference 75
+    100274: Difference 76
+    100276: Difference 77
+    100278: Difference 78
+    100280: Difference 79
+    100282: Difference 8
+    100284: Difference 80
+    100286: Difference 81
+    100288: Difference 82
+    100290: Difference 83
+    100292: Difference 84
+    100294: Difference 85
+    100296: Difference 86
+    100298: Difference 87
+    100300: Difference 88
+    100302: Difference 89
+    100304: Difference 9
+    100306: Difference 90
+    100308: Difference 91
+    100310: Difference 92
+    100312: Difference 93
+    100314: Difference 94
+    100316: Difference 95
+    100318: Difference 96
+    100320: Difference 97
+    100322: Difference 98
+    100324: Difference 99
+    100326: Group 1
+    100328: Group 10
+    100330: Group 100
+    100332: Group 102
+    100334: Group 104
+    100336: Group 106
+    100338: Group 112
+    100340: Group 114
+    100342: Group 115
+    100344: Group 117
+    100346: Group 12
+    100348: Group 125
+    100350: Group 127
+    100352: Group 129
+    100354: Group 131
+    100356: Group 135
+    100358: Group 137
+    100360: Group 139
+    100362: Group 14
+    100364: Group 141
+    100366: Group 142
+    100368: Group 144
+    100370: Group 150
+    100372: Group 152
+    100374: Group 154
+    100376: Group 156
+    100378: Group 158
+    100380: Group 16
+    100382: Group 176
+    100384: Group 177
+    100386: Group 179
+    100388: Group 18
+    100390: Group 20
+    100392: Group 209
+    100394: Group 210
+    100396: Group 212
+    100398: Group 214
+    100400: Group 216
+    100402: Group 218
+    100404: Group 22
+    100406: Group 224
+    100408: Group 228
+    100410: Group 24
+    100412: Group 248
+    100414: Group 249
+    100416: Group 251
+    100418: Group 26
+    100420: Group 263
+    100422: Group 264
+    100424: Group 266
+    100426: Group 268
+    100428: Group 270
+    100430: Group 272
+    100432: Group 278
+    100434: Group 28
+    100436: Group 282
+    100438: Group 30
+    100440: Group 302
+    100442: Group 303
+    100444: Group 305
+    100446: Group 317
+    100448: Group 319
+    100450: Group 32
+    100452: Group 325
+    100454: Group 327
+    100456: Group 329
+    100458: Group 331
+    100460: Group 333
+    100462: Group 335
+    100464: Group 337
+    100466: Group 338
+    100468: Group 34
+    100470: Group 340
+    100472: Group 342
+    100474: Group 343
+    100476: Group 345
+    100478: Group 346
+    100480: Group 348
+    100482: Group 350
+    100484: Group 352
+    100486: Group 354
+    100488: Group 36
+    100490: Group 370
+    100492: Group 375
+    100494: Group 376
+    100496: Group 378
+    100498: Group 38
+    100500: Group 388
+    100502: Group 393
+    100504: Group 394
+    100506: Group 396
+    100508: Group 40
+    100510: Group 42
+    100512: Group 436
+    100514: Group 437
+    100516: Group 439
+    100518: Group 44
+    100520: Group 447
+    100522: Group 451
+    100524: Group 453
+    100526: Group 455
+    100528: Group 457
+    100530: Group 459
+    100532: Group 46
+    100534: Group 461
+    100536: Group 463
+    100538: Group 465
+    100540: Group 469
+    100542: Group 471
+    100544: Group 473
+    100546: Group 479
+    100548: Group 481
+    100550: Group 483
+    100552: Group 485
+    100554: Group 487
+    100556: Group 489
+    100558: Group 491
+    100560: Group 495
+    100562: Group 499
+    100564: Group 50
+    100566: Group 501
+    100568: Group 505
+    100570: Group 507
+    100572: Group 508
+    100574: Group 510
+    100576: Group 518
+    100578: Group 520
+    100580: Group 522
+    100582: Group 527
+    100584: Group 528
+    100586: Group 530
+    100588: Group 540
+    100590: Group 542
+    100592: Group 547
+    100594: Group 548
+    100596: Group 550
+    100598: Group 56
+    100600: Group 560
+    100602: Group 566
+    100604: Group 58
+    100606: Group 60
+    100608: Group 604
+    100610: Group 8
+    100612: Group 84
+    100614: Group 88
+    100616: Group 90
+    100618: Group 92
+    100620: Group 94
+    100622: Group 96
+    100624: Group 98
+    100626: //RootNode
+    400000: Difference
+    400002: Difference 1
+    400004: Difference 10
+    400006: Difference 100
+    400008: Difference 101
+    400010: Difference 102
+    400012: Difference 103
+    400014: Difference 104
+    400016: Difference 105
+    400018: Difference 106
+    400020: Difference 107
+    400022: Difference 108
+    400024: Difference 109
+    400026: Difference 11
+    400028: Difference 110
+    400030: Difference 111
+    400032: Difference 112
+    400034: Difference 113
+    400036: Difference 114
+    400038: Difference 115
+    400040: Difference 116
+    400042: Difference 117
+    400044: Difference 118
+    400046: Difference 119
+    400048: Difference 12
+    400050: Difference 120
+    400052: Difference 121
+    400054: Difference 122
+    400056: Difference 123
+    400058: Difference 124
+    400060: Difference 125
+    400062: Difference 126
+    400064: Difference 127
+    400066: Difference 128
+    400068: Difference 129
+    400070: Difference 13
+    400072: Difference 130
+    400074: Difference 131
+    400076: Difference 132
+    400078: Difference 133
+    400080: Difference 134
+    400082: Difference 135
+    400084: Difference 136
+    400086: Difference 137
+    400088: Difference 138
+    400090: Difference 139
+    400092: Difference 14
+    400094: Difference 140
+    400096: Difference 141
+    400098: Difference 142
+    400100: Difference 143
+    400102: Difference 144
+    400104: Difference 145
+    400106: Difference 146
+    400108: Difference 147
+    400110: Difference 148
+    400112: Difference 149
+    400114: Difference 15
+    400116: Difference 150
+    400118: Difference 151
+    400120: Difference 152
+    400122: Difference 153
+    400124: Difference 154
+    400126: Difference 155
+    400128: Difference 156
+    400130: Difference 157
+    400132: Difference 158
+    400134: Difference 159
+    400136: Difference 16
+    400138: Difference 160
+    400140: Difference 161
+    400142: Difference 162
+    400144: Difference 17
+    400146: Difference 18
+    400148: Difference 19
+    400150: Difference 2
+    400152: Difference 20
+    400154: Difference 21
+    400156: Difference 22
+    400158: Difference 23
+    400160: Difference 24
+    400162: Difference 25
+    400164: Difference 26
+    400166: Difference 27
+    400168: Difference 28
+    400170: Difference 29
+    400172: Difference 3
+    400174: Difference 30
+    400176: Difference 31
+    400178: Difference 32
+    400180: Difference 33
+    400182: Difference 34
+    400184: Difference 35
+    400186: Difference 36
+    400188: Difference 37
+    400190: Difference 38
+    400192: Difference 39
+    400194: Difference 4
+    400196: Difference 40
+    400198: Difference 41
+    400200: Difference 42
+    400202: Difference 43
+    400204: Difference 44
+    400206: Difference 45
+    400208: Difference 46
+    400210: Difference 47
+    400212: Difference 48
+    400214: Difference 49
+    400216: Difference 5
+    400218: Difference 50
+    400220: Difference 51
+    400222: Difference 52
+    400224: Difference 53
+    400226: Difference 54
+    400228: Difference 55
+    400230: Difference 56
+    400232: Difference 57
+    400234: Difference 58
+    400236: Difference 59
+    400238: Difference 6
+    400240: Difference 60
+    400242: Difference 61
+    400244: Difference 62
+    400246: Difference 63
+    400248: Difference 64
+    400250: Difference 65
+    400252: Difference 66
+    400254: Difference 67
+    400256: Difference 68
+    400258: Difference 69
+    400260: Difference 7
+    400262: Difference 70
+    400264: Difference 71
+    400266: Difference 72
+    400268: Difference 73
+    400270: Difference 74
+    400272: Difference 75
+    400274: Difference 76
+    400276: Difference 77
+    400278: Difference 78
+    400280: Difference 79
+    400282: Difference 8
+    400284: Difference 80
+    400286: Difference 81
+    400288: Difference 82
+    400290: Difference 83
+    400292: Difference 84
+    400294: Difference 85
+    400296: Difference 86
+    400298: Difference 87
+    400300: Difference 88
+    400302: Difference 89
+    400304: Difference 9
+    400306: Difference 90
+    400308: Difference 91
+    400310: Difference 92
+    400312: Difference 93
+    400314: Difference 94
+    400316: Difference 95
+    400318: Difference 96
+    400320: Difference 97
+    400322: Difference 98
+    400324: Difference 99
+    400326: Group 1
+    400328: Group 10
+    400330: Group 100
+    400332: Group 102
+    400334: Group 104
+    400336: Group 106
+    400338: Group 112
+    400340: Group 114
+    400342: Group 115
+    400344: Group 117
+    400346: Group 12
+    400348: Group 125
+    400350: Group 127
+    400352: Group 129
+    400354: Group 131
+    400356: Group 135
+    400358: Group 137
+    400360: Group 139
+    400362: Group 14
+    400364: Group 141
+    400366: Group 142
+    400368: Group 144
+    400370: Group 150
+    400372: Group 152
+    400374: Group 154
+    400376: Group 156
+    400378: Group 158
+    400380: Group 16
+    400382: Group 176
+    400384: Group 177
+    400386: Group 179
+    400388: Group 18
+    400390: Group 20
+    400392: Group 209
+    400394: Group 210
+    400396: Group 212
+    400398: Group 214
+    400400: Group 216
+    400402: Group 218
+    400404: Group 22
+    400406: Group 224
+    400408: Group 228
+    400410: Group 24
+    400412: Group 248
+    400414: Group 249
+    400416: Group 251
+    400418: Group 26
+    400420: Group 263
+    400422: Group 264
+    400424: Group 266
+    400426: Group 268
+    400428: Group 270
+    400430: Group 272
+    400432: Group 278
+    400434: Group 28
+    400436: Group 282
+    400438: Group 30
+    400440: Group 302
+    400442: Group 303
+    400444: Group 305
+    400446: Group 317
+    400448: Group 319
+    400450: Group 32
+    400452: Group 325
+    400454: Group 327
+    400456: Group 329
+    400458: Group 331
+    400460: Group 333
+    400462: Group 335
+    400464: Group 337
+    400466: Group 338
+    400468: Group 34
+    400470: Group 340
+    400472: Group 342
+    400474: Group 343
+    400476: Group 345
+    400478: Group 346
+    400480: Group 348
+    400482: Group 350
+    400484: Group 352
+    400486: Group 354
+    400488: Group 36
+    400490: Group 370
+    400492: Group 375
+    400494: Group 376
+    400496: Group 378
+    400498: Group 38
+    400500: Group 388
+    400502: Group 393
+    400504: Group 394
+    400506: Group 396
+    400508: Group 40
+    400510: Group 42
+    400512: Group 436
+    400514: Group 437
+    400516: Group 439
+    400518: Group 44
+    400520: Group 447
+    400522: Group 451
+    400524: Group 453
+    400526: Group 455
+    400528: Group 457
+    400530: Group 459
+    400532: Group 46
+    400534: Group 461
+    400536: Group 463
+    400538: Group 465
+    400540: Group 469
+    400542: Group 471
+    400544: Group 473
+    400546: Group 479
+    400548: Group 481
+    400550: Group 483
+    400552: Group 485
+    400554: Group 487
+    400556: Group 489
+    400558: Group 491
+    400560: Group 495
+    400562: Group 499
+    400564: Group 50
+    400566: Group 501
+    400568: Group 505
+    400570: Group 507
+    400572: Group 508
+    400574: Group 510
+    400576: Group 518
+    400578: Group 520
+    400580: Group 522
+    400582: Group 527
+    400584: Group 528
+    400586: Group 530
+    400588: Group 540
+    400590: Group 542
+    400592: Group 547
+    400594: Group 548
+    400596: Group 550
+    400598: Group 56
+    400600: Group 560
+    400602: Group 566
+    400604: Group 58
+    400606: Group 60
+    400608: Group 604
+    400610: Group 8
+    400612: Group 84
+    400614: Group 88
+    400616: Group 90
+    400618: Group 92
+    400620: Group 94
+    400622: Group 96
+    400624: Group 98
+    400626: //RootNode
+    2100000: _defaultMat
+    2100002: '[Wood_ Floor]4'
+    2100004: '[Roofing_Shingles_Variable]1'
+    2100006: '[Wood_ Floor]3'
+    2100008: '[Fencing_Lattice_Natural]2'
+    2100010: '[Wood_Floor_Parquet]1'
+    2100012: '[Stone_Sandstone_Ashlar_Light]1'
+    2100014: '[sketch-stone]'
+    2100016: '[Groundcover_Rock_Crushed_Multi]'
+    2100018: '[Translucent_Glass_Green_Dark]'
+    2100020: '[Color_C12]'
+    2100022: '[Translucent_Glass_Gray]1'
+    2100024: '[Translucent_Glass_Green_Dark]1'
+    2100026: '[Metal_Seamed]1'
+    2100028: '[Metal_Embossed]'
+    2100030: '[Metal_Seamed]'
+    2100032: '[0010_Snow]'
+    2100034: '[0136_Charcoal]'
+    2100036: '[0135_DarkGray]'
+    2100038: '[Wood_Floor_Parquet]2'
+    2100040: '[Roofing_Slate_Rounded]1'
+    2100042: '[Stone_Pavers_Flagstone_Gray]1'
+    2300000: Difference
+    2300002: Difference 1
+    2300004: Difference 10
+    2300006: Difference 100
+    2300008: Difference 101
+    2300010: Difference 102
+    2300012: Difference 103
+    2300014: Difference 104
+    2300016: Difference 105
+    2300018: Difference 106
+    2300020: Difference 107
+    2300022: Difference 108
+    2300024: Difference 109
+    2300026: Difference 11
+    2300028: Difference 110
+    2300030: Difference 111
+    2300032: Difference 112
+    2300034: Difference 113
+    2300036: Difference 114
+    2300038: Difference 115
+    2300040: Difference 116
+    2300042: Difference 117
+    2300044: Difference 118
+    2300046: Difference 119
+    2300048: Difference 12
+    2300050: Difference 120
+    2300052: Difference 121
+    2300054: Difference 122
+    2300056: Difference 123
+    2300058: Difference 124
+    2300060: Difference 125
+    2300062: Difference 126
+    2300064: Difference 127
+    2300066: Difference 128
+    2300068: Difference 129
+    2300070: Difference 13
+    2300072: Difference 130
+    2300074: Difference 131
+    2300076: Difference 132
+    2300078: Difference 133
+    2300080: Difference 134
+    2300082: Difference 135
+    2300084: Difference 136
+    2300086: Difference 137
+    2300088: Difference 138
+    2300090: Difference 139
+    2300092: Difference 14
+    2300094: Difference 140
+    2300096: Difference 141
+    2300098: Difference 142
+    2300100: Difference 143
+    2300102: Difference 144
+    2300104: Difference 145
+    2300106: Difference 146
+    2300108: Difference 147
+    2300110: Difference 148
+    2300112: Difference 149
+    2300114: Difference 15
+    2300116: Difference 150
+    2300118: Difference 151
+    2300120: Difference 152
+    2300122: Difference 153
+    2300124: Difference 154
+    2300126: Difference 155
+    2300128: Difference 156
+    2300130: Difference 157
+    2300132: Difference 158
+    2300134: Difference 159
+    2300136: Difference 16
+    2300138: Difference 160
+    2300140: Difference 161
+    2300142: Difference 162
+    2300144: Difference 17
+    2300146: Difference 18
+    2300148: Difference 19
+    2300150: Difference 2
+    2300152: Difference 20
+    2300154: Difference 21
+    2300156: Difference 22
+    2300158: Difference 23
+    2300160: Difference 24
+    2300162: Difference 25
+    2300164: Difference 26
+    2300166: Difference 27
+    2300168: Difference 28
+    2300170: Difference 29
+    2300172: Difference 3
+    2300174: Difference 30
+    2300176: Difference 31
+    2300178: Difference 32
+    2300180: Difference 33
+    2300182: Difference 34
+    2300184: Difference 35
+    2300186: Difference 36
+    2300188: Difference 37
+    2300190: Difference 38
+    2300192: Difference 39
+    2300194: Difference 4
+    2300196: Difference 40
+    2300198: Difference 41
+    2300200: Difference 42
+    2300202: Difference 43
+    2300204: Difference 44
+    2300206: Difference 45
+    2300208: Difference 46
+    2300210: Difference 47
+    2300212: Difference 48
+    2300214: Difference 49
+    2300216: Difference 5
+    2300218: Difference 50
+    2300220: Difference 51
+    2300222: Difference 52
+    2300224: Difference 53
+    2300226: Difference 54
+    2300228: Difference 55
+    2300230: Difference 56
+    2300232: Difference 57
+    2300234: Difference 58
+    2300236: Difference 59
+    2300238: Difference 6
+    2300240: Difference 60
+    2300242: Difference 61
+    2300244: Difference 62
+    2300246: Difference 63
+    2300248: Difference 64
+    2300250: Difference 65
+    2300252: Difference 66
+    2300254: Difference 67
+    2300256: Difference 68
+    2300258: Difference 69
+    2300260: Difference 7
+    2300262: Difference 70
+    2300264: Difference 71
+    2300266: Difference 72
+    2300268: Difference 73
+    2300270: Difference 74
+    2300272: Difference 75
+    2300274: Difference 76
+    2300276: Difference 77
+    2300278: Difference 78
+    2300280: Difference 79
+    2300282: Difference 8
+    2300284: Difference 80
+    2300286: Difference 81
+    2300288: Difference 82
+    2300290: Difference 83
+    2300292: Difference 84
+    2300294: Difference 85
+    2300296: Difference 86
+    2300298: Difference 87
+    2300300: Difference 88
+    2300302: Difference 89
+    2300304: Difference 9
+    2300306: Difference 90
+    2300308: Difference 91
+    2300310: Difference 92
+    2300312: Difference 93
+    2300314: Difference 94
+    2300316: Difference 95
+    2300318: Difference 96
+    2300320: Difference 97
+    2300322: Difference 98
+    2300324: Difference 99
+    2300326: Group 10
+    2300328: Group 100
+    2300330: Group 102
+    2300332: Group 104
+    2300334: Group 106
+    2300336: Group 112
+    2300338: Group 115
+    2300340: Group 117
+    2300342: Group 12
+    2300344: Group 125
+    2300346: Group 127
+    2300348: Group 129
+    2300350: Group 131
+    2300352: Group 135
+    2300354: Group 137
+    2300356: Group 139
+    2300358: Group 14
+    2300360: Group 142
+    2300362: Group 144
+    2300364: Group 150
+    2300366: Group 152
+    2300368: Group 154
+    2300370: Group 156
+    2300372: Group 158
+    2300374: Group 16
+    2300376: Group 177
+    2300378: Group 179
+    2300380: Group 18
+    2300382: Group 20
+    2300384: Group 210
+    2300386: Group 212
+    2300388: Group 214
+    2300390: Group 216
+    2300392: Group 218
+    2300394: Group 22
+    2300396: Group 224
+    2300398: Group 228
+    2300400: Group 24
+    2300402: Group 249
+    2300404: Group 251
+    2300406: Group 26
+    2300408: Group 264
+    2300410: Group 266
+    2300412: Group 268
+    2300414: Group 270
+    2300416: Group 272
+    2300418: Group 278
+    2300420: Group 28
+    2300422: Group 282
+    2300424: Group 30
+    2300426: Group 303
+    2300428: Group 305
+    2300430: Group 317
+    2300432: Group 319
+    2300434: Group 32
+    2300436: Group 325
+    2300438: Group 327
+    2300440: Group 329
+    2300442: Group 331
+    2300444: Group 333
+    2300446: Group 335
+    2300448: Group 338
+    2300450: Group 34
+    2300452: Group 340
+    2300454: Group 343
+    2300456: Group 346
+    2300458: Group 348
+    2300460: Group 350
+    2300462: Group 352
+    2300464: Group 354
+    2300466: Group 36
+    2300468: Group 376
+    2300470: Group 378
+    2300472: Group 38
+    2300474: Group 394
+    2300476: Group 396
+    2300478: Group 40
+    2300480: Group 42
+    2300482: Group 437
+    2300484: Group 439
+    2300486: Group 44
+    2300488: Group 447
+    2300490: Group 451
+    2300492: Group 453
+    2300494: Group 455
+    2300496: Group 457
+    2300498: Group 459
+    2300500: Group 46
+    2300502: Group 461
+    2300504: Group 463
+    2300506: Group 465
+    2300508: Group 469
+    2300510: Group 471
+    2300512: Group 473
+    2300514: Group 479
+    2300516: Group 481
+    2300518: Group 483
+    2300520: Group 485
+    2300522: Group 487
+    2300524: Group 489
+    2300526: Group 491
+    2300528: Group 495
+    2300530: Group 499
+    2300532: Group 50
+    2300534: Group 501
+    2300536: Group 505
+    2300538: Group 508
+    2300540: Group 510
+    2300542: Group 518
+    2300544: Group 520
+    2300546: Group 528
+    2300548: Group 530
+    2300550: Group 540
+    2300552: Group 548
+    2300554: Group 550
+    2300556: Group 56
+    2300558: Group 560
+    2300560: Group 566
+    2300562: Group 58
+    2300564: Group 60
+    2300566: Group 604
+    2300568: Group 8
+    2300570: Group 84
+    2300572: Group 88
+    2300574: Group 90
+    2300576: Group 92
+    2300578: Group 94
+    2300580: Group 96
+    2300582: Group 98
+    3300000: Difference
+    3300002: Difference 1
+    3300004: Difference 10
+    3300006: Difference 100
+    3300008: Difference 101
+    3300010: Difference 102
+    3300012: Difference 103
+    3300014: Difference 104
+    3300016: Difference 105
+    3300018: Difference 106
+    3300020: Difference 107
+    3300022: Difference 108
+    3300024: Difference 109
+    3300026: Difference 11
+    3300028: Difference 110
+    3300030: Difference 111
+    3300032: Difference 112
+    3300034: Difference 113
+    3300036: Difference 114
+    3300038: Difference 115
+    3300040: Difference 116
+    3300042: Difference 117
+    3300044: Difference 118
+    3300046: Difference 119
+    3300048: Difference 12
+    3300050: Difference 120
+    3300052: Difference 121
+    3300054: Difference 122
+    3300056: Difference 123
+    3300058: Difference 124
+    3300060: Difference 125
+    3300062: Difference 126
+    3300064: Difference 127
+    3300066: Difference 128
+    3300068: Difference 129
+    3300070: Difference 13
+    3300072: Difference 130
+    3300074: Difference 131
+    3300076: Difference 132
+    3300078: Difference 133
+    3300080: Difference 134
+    3300082: Difference 135
+    3300084: Difference 136
+    3300086: Difference 137
+    3300088: Difference 138
+    3300090: Difference 139
+    3300092: Difference 14
+    3300094: Difference 140
+    3300096: Difference 141
+    3300098: Difference 142
+    3300100: Difference 143
+    3300102: Difference 144
+    3300104: Difference 145
+    3300106: Difference 146
+    3300108: Difference 147
+    3300110: Difference 148
+    3300112: Difference 149
+    3300114: Difference 15
+    3300116: Difference 150
+    3300118: Difference 151
+    3300120: Difference 152
+    3300122: Difference 153
+    3300124: Difference 154
+    3300126: Difference 155
+    3300128: Difference 156
+    3300130: Difference 157
+    3300132: Difference 158
+    3300134: Difference 159
+    3300136: Difference 16
+    3300138: Difference 160
+    3300140: Difference 161
+    3300142: Difference 162
+    3300144: Difference 17
+    3300146: Difference 18
+    3300148: Difference 19
+    3300150: Difference 2
+    3300152: Difference 20
+    3300154: Difference 21
+    3300156: Difference 22
+    3300158: Difference 23
+    3300160: Difference 24
+    3300162: Difference 25
+    3300164: Difference 26
+    3300166: Difference 27
+    3300168: Difference 28
+    3300170: Difference 29
+    3300172: Difference 3
+    3300174: Difference 30
+    3300176: Difference 31
+    3300178: Difference 32
+    3300180: Difference 33
+    3300182: Difference 34
+    3300184: Difference 35
+    3300186: Difference 36
+    3300188: Difference 37
+    3300190: Difference 38
+    3300192: Difference 39
+    3300194: Difference 4
+    3300196: Difference 40
+    3300198: Difference 41
+    3300200: Difference 42
+    3300202: Difference 43
+    3300204: Difference 44
+    3300206: Difference 45
+    3300208: Difference 46
+    3300210: Difference 47
+    3300212: Difference 48
+    3300214: Difference 49
+    3300216: Difference 5
+    3300218: Difference 50
+    3300220: Difference 51
+    3300222: Difference 52
+    3300224: Difference 53
+    3300226: Difference 54
+    3300228: Difference 55
+    3300230: Difference 56
+    3300232: Difference 57
+    3300234: Difference 58
+    3300236: Difference 59
+    3300238: Difference 6
+    3300240: Difference 60
+    3300242: Difference 61
+    3300244: Difference 62
+    3300246: Difference 63
+    3300248: Difference 64
+    3300250: Difference 65
+    3300252: Difference 66
+    3300254: Difference 67
+    3300256: Difference 68
+    3300258: Difference 69
+    3300260: Difference 7
+    3300262: Difference 70
+    3300264: Difference 71
+    3300266: Difference 72
+    3300268: Difference 73
+    3300270: Difference 74
+    3300272: Difference 75
+    3300274: Difference 76
+    3300276: Difference 77
+    3300278: Difference 78
+    3300280: Difference 79
+    3300282: Difference 8
+    3300284: Difference 80
+    3300286: Difference 81
+    3300288: Difference 82
+    3300290: Difference 83
+    3300292: Difference 84
+    3300294: Difference 85
+    3300296: Difference 86
+    3300298: Difference 87
+    3300300: Difference 88
+    3300302: Difference 89
+    3300304: Difference 9
+    3300306: Difference 90
+    3300308: Difference 91
+    3300310: Difference 92
+    3300312: Difference 93
+    3300314: Difference 94
+    3300316: Difference 95
+    3300318: Difference 96
+    3300320: Difference 97
+    3300322: Difference 98
+    3300324: Difference 99
+    3300326: Group 10
+    3300328: Group 100
+    3300330: Group 102
+    3300332: Group 104
+    3300334: Group 106
+    3300336: Group 112
+    3300338: Group 115
+    3300340: Group 117
+    3300342: Group 12
+    3300344: Group 125
+    3300346: Group 127
+    3300348: Group 129
+    3300350: Group 131
+    3300352: Group 135
+    3300354: Group 137
+    3300356: Group 139
+    3300358: Group 14
+    3300360: Group 142
+    3300362: Group 144
+    3300364: Group 150
+    3300366: Group 152
+    3300368: Group 154
+    3300370: Group 156
+    3300372: Group 158
+    3300374: Group 16
+    3300376: Group 177
+    3300378: Group 179
+    3300380: Group 18
+    3300382: Group 20
+    3300384: Group 210
+    3300386: Group 212
+    3300388: Group 214
+    3300390: Group 216
+    3300392: Group 218
+    3300394: Group 22
+    3300396: Group 224
+    3300398: Group 228
+    3300400: Group 24
+    3300402: Group 249
+    3300404: Group 251
+    3300406: Group 26
+    3300408: Group 264
+    3300410: Group 266
+    3300412: Group 268
+    3300414: Group 270
+    3300416: Group 272
+    3300418: Group 278
+    3300420: Group 28
+    3300422: Group 282
+    3300424: Group 30
+    3300426: Group 303
+    3300428: Group 305
+    3300430: Group 317
+    3300432: Group 319
+    3300434: Group 32
+    3300436: Group 325
+    3300438: Group 327
+    3300440: Group 329
+    3300442: Group 331
+    3300444: Group 333
+    3300446: Group 335
+    3300448: Group 338
+    3300450: Group 34
+    3300452: Group 340
+    3300454: Group 343
+    3300456: Group 346
+    3300458: Group 348
+    3300460: Group 350
+    3300462: Group 352
+    3300464: Group 354
+    3300466: Group 36
+    3300468: Group 376
+    3300470: Group 378
+    3300472: Group 38
+    3300474: Group 394
+    3300476: Group 396
+    3300478: Group 40
+    3300480: Group 42
+    3300482: Group 437
+    3300484: Group 439
+    3300486: Group 44
+    3300488: Group 447
+    3300490: Group 451
+    3300492: Group 453
+    3300494: Group 455
+    3300496: Group 457
+    3300498: Group 459
+    3300500: Group 46
+    3300502: Group 461
+    3300504: Group 463
+    3300506: Group 465
+    3300508: Group 469
+    3300510: Group 471
+    3300512: Group 473
+    3300514: Group 479
+    3300516: Group 481
+    3300518: Group 483
+    3300520: Group 485
+    3300522: Group 487
+    3300524: Group 489
+    3300526: Group 491
+    3300528: Group 495
+    3300530: Group 499
+    3300532: Group 50
+    3300534: Group 501
+    3300536: Group 505
+    3300538: Group 508
+    3300540: Group 510
+    3300542: Group 518
+    3300544: Group 520
+    3300546: Group 528
+    3300548: Group 530
+    3300550: Group 540
+    3300552: Group 548
+    3300554: Group 550
+    3300556: Group 56
+    3300558: Group 560
+    3300560: Group 566
+    3300562: Group 58
+    3300564: Group 60
+    3300566: Group 604
+    3300568: Group 8
+    3300570: Group 84
+    3300572: Group 88
+    3300574: Group 90
+    3300576: Group 92
+    3300578: Group 94
+    3300580: Group 96
+    3300582: Group 98
+    4300000: Mesh Difference
+    4300002: Mesh Difference
+    4300004: Mesh Difference
+    4300006: Mesh Group 8
+    4300008: Mesh Group 24
+    4300010: Mesh Group 28
+    4300012: Mesh Group 30
+    4300014: Mesh Group 32
+    4300016: Mesh Group 36
+    4300018: Mesh Group 38
+    4300020: Mesh Difference
+    4300022: Mesh Difference
+    4300024: Mesh Difference
+    4300026: Mesh Group 60
+    4300028: Mesh Difference
+    4300030: Mesh Difference
+    4300032: Mesh Difference
+    4300034: Mesh Difference
+    4300036: Mesh Group 84
+    4300038: Mesh Difference
+    4300040: Mesh Group 88
+    4300042: Mesh Group 90
+    4300044: Mesh Difference
+    4300046: Mesh Difference
+    4300048: Mesh Group 112
+    4300050: Mesh Group 115
+    4300052: Mesh Group 117
+    4300054: Mesh Difference
+    4300056: Mesh Difference
+    4300058: Mesh Group 142
+    4300060: Mesh Group 144
+    4300062: Mesh Difference
+    4300064: Mesh Group 150
+    4300066: Mesh Group 152
+    4300068: Mesh Group 154
+    4300070: Mesh Group 156
+    4300072: Mesh Group 177
+    4300074: Mesh Group 179
+    4300076: Mesh Difference
+    4300078: Mesh Group 212
+    4300080: Mesh Group 216
+    4300082: Mesh Difference
+    4300084: Mesh Group 228
+    4300086: Mesh Difference
+    4300088: Mesh Difference
+    4300090: Mesh Difference
+    4300092: Mesh Difference
+    4300094: Mesh Group 317
+    4300096: Mesh Group 325
+    4300098: Mesh Group 327
+    4300100: Mesh Group 338
+    4300102: Mesh Group 340
+    4300104: Mesh Group 343
+    4300106: Mesh Group 346
+    4300108: Mesh Group 348
+    4300110: Mesh Group 350
+    4300112: Mesh Group 352
+    4300114: Mesh Group 354
+    4300116: Mesh Difference
+    4300118: Mesh Difference
+    4300120: Mesh Difference
+    4300122: Mesh Difference
+    4300124: Mesh Group 604
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

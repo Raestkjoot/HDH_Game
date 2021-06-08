@@ -1,0 +1,434 @@
+fileFormatVersion: 2
+guid: f23c9b93873a27843a30100f1e3d96bc
+timeCreated: 1525265117
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f0000009000000091000000920000009300000094000000950000009600000097000000
+  assetHash:
+    serializedVersion: 2
+    Hash: e5124aeb80fc65acc6e7fe48b6bb2156
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.9745269, y: 3.2175899, z: 3.6130302}
+      lookAt: {x: 17.197575, y: -6.5909634, z: -8.151479}
+      up: {x: 0.34068066, y: 0.9166431, z: -0.20905066}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Difference
+    100002: Difference 1
+    100004: Difference 2
+    100006: Difference 3
+    100008: Difference 4
+    100010: Difference 5
+    100012: Difference 6
+    100014: Difference 7
+    100016: Group 1
+    100018: Group 10
+    100020: Group 101
+    100022: Group 103
+    100024: Group 105
+    100026: Group 107
+    100028: Group 109
+    100030: Group 110
+    100032: Group 112
+    100034: Group 114
+    100036: Group 116
+    100038: Group 118
+    100040: Group 12
+    100042: Group 120
+    100044: Group 122
+    100046: Group 124
+    100048: Group 126
+    100050: Group 128
+    100052: Group 130
+    100054: Group 132
+    100056: Group 134
+    100058: Group 136
+    100060: Group 138
+    100062: Group 14
+    100064: Group 142
+    100066: Group 144
+    100068: Group 146
+    100070: Group 148
+    100072: Group 16
+    100074: Group 18
+    100076: Group 2
+    100078: Group 20
+    100080: Group 22
+    100082: Group 24
+    100084: Group 26
+    100086: Group 28
+    100088: Group 30
+    100090: Group 32
+    100092: Group 34
+    100094: Group 35
+    100096: Group 37
+    100098: Group 39
+    100100: Group 4
+    100102: Group 41
+    100104: Group 47
+    100106: Group 49
+    100108: Group 53
+    100110: Group 55
+    100112: Group 57
+    100114: Group 59
+    100116: Group 6
+    100118: Group 61
+    100120: Group 63
+    100122: Group 67
+    100124: Group 71
+    100126: Group 73
+    100128: Group 75
+    100130: Group 77
+    100132: Group 79
+    100134: Group 8
+    100136: Group 81
+    100138: Group 83
+    100140: Group 85
+    100142: Group 89
+    100144: Group 91
+    100146: Group 93
+    100148: Group 95
+    100150: Group 97
+    100152: Group 99
+    100154: //RootNode
+    400000: Difference
+    400002: Difference 1
+    400004: Difference 2
+    400006: Difference 3
+    400008: Difference 4
+    400010: Difference 5
+    400012: Difference 6
+    400014: Difference 7
+    400016: Group 1
+    400018: Group 10
+    400020: Group 101
+    400022: Group 103
+    400024: Group 105
+    400026: Group 107
+    400028: Group 109
+    400030: Group 110
+    400032: Group 112
+    400034: Group 114
+    400036: Group 116
+    400038: Group 118
+    400040: Group 12
+    400042: Group 120
+    400044: Group 122
+    400046: Group 124
+    400048: Group 126
+    400050: Group 128
+    400052: Group 130
+    400054: Group 132
+    400056: Group 134
+    400058: Group 136
+    400060: Group 138
+    400062: Group 14
+    400064: Group 142
+    400066: Group 144
+    400068: Group 146
+    400070: Group 148
+    400072: Group 16
+    400074: Group 18
+    400076: Group 2
+    400078: Group 20
+    400080: Group 22
+    400082: Group 24
+    400084: Group 26
+    400086: Group 28
+    400088: Group 30
+    400090: Group 32
+    400092: Group 34
+    400094: Group 35
+    400096: Group 37
+    400098: Group 39
+    400100: Group 4
+    400102: Group 41
+    400104: Group 47
+    400106: Group 49
+    400108: Group 53
+    400110: Group 55
+    400112: Group 57
+    400114: Group 59
+    400116: Group 6
+    400118: Group 61
+    400120: Group 63
+    400122: Group 67
+    400124: Group 71
+    400126: Group 73
+    400128: Group 75
+    400130: Group 77
+    400132: Group 79
+    400134: Group 8
+    400136: Group 81
+    400138: Group 83
+    400140: Group 85
+    400142: Group 89
+    400144: Group 91
+    400146: Group 93
+    400148: Group 95
+    400150: Group 97
+    400152: Group 99
+    400154: //RootNode
+    2100000: '[0040_Peru]'
+    2100002: '[Color_C13]'
+    2100004: '[Color_C08]'
+    2300000: Difference
+    2300002: Difference 1
+    2300004: Difference 2
+    2300006: Difference 3
+    2300008: Difference 4
+    2300010: Difference 5
+    2300012: Difference 6
+    2300014: Difference 7
+    2300016: Group 10
+    2300018: Group 101
+    2300020: Group 103
+    2300022: Group 105
+    2300024: Group 107
+    2300026: Group 110
+    2300028: Group 112
+    2300030: Group 114
+    2300032: Group 116
+    2300034: Group 118
+    2300036: Group 12
+    2300038: Group 120
+    2300040: Group 122
+    2300042: Group 124
+    2300044: Group 126
+    2300046: Group 128
+    2300048: Group 130
+    2300050: Group 132
+    2300052: Group 134
+    2300054: Group 136
+    2300056: Group 138
+    2300058: Group 14
+    2300060: Group 142
+    2300062: Group 144
+    2300064: Group 146
+    2300066: Group 148
+    2300068: Group 16
+    2300070: Group 18
+    2300072: Group 2
+    2300074: Group 20
+    2300076: Group 22
+    2300078: Group 24
+    2300080: Group 26
+    2300082: Group 28
+    2300084: Group 30
+    2300086: Group 32
+    2300088: Group 35
+    2300090: Group 37
+    2300092: Group 39
+    2300094: Group 4
+    2300096: Group 41
+    2300098: Group 47
+    2300100: Group 49
+    2300102: Group 53
+    2300104: Group 55
+    2300106: Group 57
+    2300108: Group 59
+    2300110: Group 6
+    2300112: Group 61
+    2300114: Group 63
+    2300116: Group 67
+    2300118: Group 71
+    2300120: Group 73
+    2300122: Group 75
+    2300124: Group 77
+    2300126: Group 79
+    2300128: Group 8
+    2300130: Group 81
+    2300132: Group 83
+    2300134: Group 85
+    2300136: Group 89
+    2300138: Group 91
+    2300140: Group 93
+    2300142: Group 95
+    2300144: Group 97
+    2300146: Group 99
+    3300000: Difference
+    3300002: Difference 1
+    3300004: Difference 2
+    3300006: Difference 3
+    3300008: Difference 4
+    3300010: Difference 5
+    3300012: Difference 6
+    3300014: Difference 7
+    3300016: Group 10
+    3300018: Group 101
+    3300020: Group 103
+    3300022: Group 105
+    3300024: Group 107
+    3300026: Group 110
+    3300028: Group 112
+    3300030: Group 114
+    3300032: Group 116
+    3300034: Group 118
+    3300036: Group 12
+    3300038: Group 120
+    3300040: Group 122
+    3300042: Group 124
+    3300044: Group 126
+    3300046: Group 128
+    3300048: Group 130
+    3300050: Group 132
+    3300052: Group 134
+    3300054: Group 136
+    3300056: Group 138
+    3300058: Group 14
+    3300060: Group 142
+    3300062: Group 144
+    3300064: Group 146
+    3300066: Group 148
+    3300068: Group 16
+    3300070: Group 18
+    3300072: Group 2
+    3300074: Group 20
+    3300076: Group 22
+    3300078: Group 24
+    3300080: Group 26
+    3300082: Group 28
+    3300084: Group 30
+    3300086: Group 32
+    3300088: Group 35
+    3300090: Group 37
+    3300092: Group 39
+    3300094: Group 4
+    3300096: Group 41
+    3300098: Group 47
+    3300100: Group 49
+    3300102: Group 53
+    3300104: Group 55
+    3300106: Group 57
+    3300108: Group 59
+    3300110: Group 6
+    3300112: Group 61
+    3300114: Group 63
+    3300116: Group 67
+    3300118: Group 71
+    3300120: Group 73
+    3300122: Group 75
+    3300124: Group 77
+    3300126: Group 79
+    3300128: Group 8
+    3300130: Group 81
+    3300132: Group 83
+    3300134: Group 85
+    3300136: Group 89
+    3300138: Group 91
+    3300140: Group 93
+    3300142: Group 95
+    3300144: Group 97
+    3300146: Group 99
+    4300000: Mesh Group 2
+    4300002: Mesh Group 16
+    4300004: Mesh Group 18
+    4300006: Mesh Group 22
+    4300008: Mesh Group 30
+    4300010: Mesh Group 35
+    4300012: Mesh Group 37
+    4300014: Mesh Group 41
+    4300016: Mesh Difference
+    4300018: Mesh Difference
+    4300020: Mesh Group 47
+    4300022: Mesh Group 49
+    4300024: Mesh Difference
+    4300026: Mesh Group 53
+    4300028: Mesh Group 55
+    4300030: Mesh Difference
+    4300032: Mesh Group 75
+    4300034: Mesh Group 110
+    4300036: Mesh Group 112
+    4300038: Mesh Difference
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

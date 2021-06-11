@@ -2,6 +2,7 @@
 //Attach to empty pivot point object
 //Make camera child of this
 //Make player parent of this
+//Add the gameobject containing all mesh for the player to the meshTrans variable
 
 using System.Collections;
 using System.Collections.Generic;
@@ -31,8 +32,6 @@ public class CameraControl : MonoBehaviour {
         player = transform.parent;
         cam = Camera.main.transform;
         meshRot = meshTrans.rotation;
-        //TODO: delete
-        cam.localPosition = new Vector3(0, 0, curZoom);
     }
 
     // Update is called once per frame

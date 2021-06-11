@@ -26,9 +26,6 @@ public class CameraControl : MonoBehaviour {
 
     // Start is called before the first frame update
     void Start() {
-        curZoom = -curZoom;
-        minZoom = -minZoom;
-        maxZoom = -maxZoom;
         player = transform.parent;
         cam = Camera.main.transform;
         meshRot = meshTrans.rotation;
@@ -37,20 +34,20 @@ public class CameraControl : MonoBehaviour {
     // Update is called once per frame
     void Update() {
         //Change zoom with the mouse wheel.
-        curZoom += Input.GetAxis("Mouse ScrollWheel") * zoomSpeed;
-        if (curZoom > minZoom)
+        curZoom -= Input.GetAxis("Mouse ScrollWheel") * zoomSpeed;
+        if (curZoom < minZoom)
             curZoom = minZoom;
-        if (curZoom < maxZoom)
+        if (curZoom > maxZoom)
             curZoom = maxZoom;
         //Make sure camera is not obscured
         RaycastHit hit;
         if (Physics.Raycast(transform.position,
                 (cam.transform.position) - transform.position,
-                out hit, -curZoom)) {
+                out hit, curZoom)) {
             cam.localPosition = new Vector3(0, 0, -Mathf.Abs(hit.distance) + clipOffset);
         }
         else {
-            cam.localPosition = new Vector3(0, 0, curZoom);
+            cam.localPosition = new Vector3(0, 0, -curZoom);
         }
 
         //Get input from mouse

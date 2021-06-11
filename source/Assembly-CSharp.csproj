@@ -55,16 +55,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\BasicCombatScript.cs" />
-     <Compile Include="Assets\Scripts\BasicMovementScript.cs" />
-     <Compile Include="Assets\Scripts\EnemyAI.cs" />
-     <Compile Include="Assets\Scripts\GoldCounter.cs" />
-     <Compile Include="Assets\Scripts\KillMeOverTime.cs" />
-     <Compile Include="Assets\Scripts\Mining.cs" />
-     <Compile Include="Assets\Scripts\NPCMove.cs" />
-     <Compile Include="Assets\Scripts\PlayerCombat.cs" />
-     <Compile Include="Assets\Scripts\SwitchingTools.cs" />
-     <Compile Include="Assets\Scripts\Sword.cs" />
+     <Compile Include="Assets\Scripts\Legacy\BasicCombatScript.cs" />
+     <Compile Include="Assets\Scripts\Legacy\BasicMovementScript.cs" />
+     <Compile Include="Assets\Scripts\Legacy\EnemyAI.cs" />
+     <Compile Include="Assets\Scripts\Legacy\GoldCounter.cs" />
+     <Compile Include="Assets\Scripts\Legacy\KillMeOverTime.cs" />
+     <Compile Include="Assets\Scripts\Legacy\Mining.cs" />
+     <Compile Include="Assets\Scripts\Legacy\NPCMove.cs" />
+     <Compile Include="Assets\Scripts\Legacy\PlayerCombat.cs" />
+     <Compile Include="Assets\Scripts\Legacy\SwitchingTools.cs" />
+     <Compile Include="Assets\Scripts\Legacy\Sword.cs" />
+     <Compile Include="Assets\Scripts\New\CameraControl.cs" />
+     <Compile Include="Assets\Scripts\New\HideMouse.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Projects/Unity Projects/DesignHojerHojskole_Game/HDH_Game/source/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
